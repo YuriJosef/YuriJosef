@@ -3,9 +3,9 @@
 
 Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 16 anos, gosto de assirti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Inglê</strong> 
+- 💬 Pergunte-me sobre: <strong>gosto de passear e tbm ir pra shows</strong>
+- 📣 Nós podemos falar em: <strong>Só português no momento</strong>
 
 <div align="center">
 
