@@ -1,5 +1,5 @@
 # [Yuri Jose] 
-<img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="110px">
+<img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="160px">
 
 Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 16 anos, gosto de assirti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
 
