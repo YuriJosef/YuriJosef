@@ -1,4 +1,4 @@
-# [Yuri Josef] 
+# [Yuri Jose] 
 <img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="110px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
