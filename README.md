@@ -1,7 +1,7 @@
 # [Yuri Jose] 
 <img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="110px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 16 anos, gosto de assirti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
