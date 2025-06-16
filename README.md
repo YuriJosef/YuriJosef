@@ -1,7 +1,7 @@
 # [Yuri Jose] 
 <img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="160px">
 
-Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 16 anos, gosto de assisti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
+Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 17 anos, gosto de assisti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Inglês</strong> 
 - 💬 Pergunte-me sobre: <strong>Gosto de passear e tbm ir pra shows</strong>
