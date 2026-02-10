@@ -1,7 +1,7 @@
 # [Yuri Jose] 
 <img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="160px">
 
-Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 17 anos, gosto de assisti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
+Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 18 anos, gosto de assisti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Inglês</strong> 
 - 💬 Pergunte-me sobre: <strong>Gosto de passear e tbm ir pra shows</strong>
@@ -19,7 +19,3 @@ Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 17 anos, gosto de assisti f
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 </div>
-
-**Contador De Visitas**
-
-![VisitorCount](https://profile-counter.glitch.me/{YuriJosef}/count.svg)
