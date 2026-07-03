@@ -1,4 +1,4 @@
-# [Yuri Jose] 
+# [Yuri José] 
 <img src="https://media0.giphy.com/media/fE4FCOe9pNHjWFIaTm/source.gif" width="160px">
 
 Eu sou <strong>Yuri Jose</strong>, <strong> eu tenho 18 anos, gosto de assisti filmes ou series, jogar algo, escutar músicas</strong> 👨🏻‍💻 
